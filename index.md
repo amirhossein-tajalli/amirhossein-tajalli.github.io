@@ -6,15 +6,15 @@
 
   <div>
 
-# Mechanical Engineer | MSc in Aerospace Structural Engineering | Research Assistant | CAD Designer | Developer  
+    <p><strong>Mechanical Engineer | MSc in Aerospace Structural Engineering | Research Assistant | CAD Designer | Developer</strong></p>
 
----
+    <hr>
 
-# ℹ️ About
+    <p><strong>ℹ️ About</strong></p>
 
-<div align="justify">
-Driven by curiosity and genuine eagerness to learn, I embrace challenges as opportunities to grow and develop new skills. I believe that dedication and an open mindset turn every experience into a chance for continuous improvement. Motivated to contribute meaningfully, I seek out environments that encourage innovation and push me beyond my comfort zone, fostering both professional and personal growth.
-</div>
+    <div align="justify">
+    Driven by curiosity and genuine eagerness to learn, I embrace challenges as opportunities to grow and develop new skills. I believe that dedication and an open mindset turn every experience into a chance for continuous improvement. Motivated to contribute meaningfully, I seek out environments that encourage innovation and push me beyond my comfort zone, fostering both professional and personal growth.
+    </div>
 
   </div>
 

@@ -8,7 +8,7 @@
 
     <p><strong>Mechanical Engineer | MSc in Aerospace Structural Engineering | Research Assistant | CAD Designer | Developer</strong></p>
 
-    <hr>
+    <div style="height:1px; background-color:#d0d7de; margin:4px 0 8px 0;"></div>
 
     <p><strong>ℹ️ About</strong></p>
 

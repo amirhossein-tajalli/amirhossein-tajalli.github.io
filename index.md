@@ -1,6 +1,10 @@
-<img src="https://avatars.githubusercontent.com/amirhossein-tajalli"
-     alt="Amirhossein Tajalli - GitHub Profile Image"
-     width="120" height="120">
+<div style="display:flex; align-items:flex-start; gap:16px;">
+
+  <img src="https://avatars.githubusercontent.com/amirhossein-tajalli"
+       alt="Amirhossein Tajalli - GitHub Profile Image"
+       width="120" height="120" style="border-radius:50%;">
+
+  <div>
 
 Mechanical Engineer | MSc in Aerospace Structural Engineering | Research Assistant | CAD Designer | Developer
 
@@ -8,6 +12,10 @@ Mechanical Engineer | MSc in Aerospace Structural Engineering | Research Assista
 
 <div align="justify">
 Driven by curiosity and genuine eagerness to learn, I embrace challenges as opportunities to grow and develop new skills. I believe that dedication and an open mindset turn every experience into a chance for continuous improvement. Motivated to contribute meaningfully, I seek out environments that encourage innovation and push me beyond my comfort zone, fostering both professional and personal growth.
+</div>
+
+  </div>
+
 </div>
 
 ## ⚠️ Disclaimer

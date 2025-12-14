@@ -1,11 +1,19 @@
-# Amirhossein Tajalli
+<div style="display:flex; align-items:center; gap:16px;">
 
-Mechanical Engineer | MSc in Space Structural Engineering | Research Assistant | CAD Designer | Developer
+  <img src="https://avatars.githubusercontent.com/amirhossein-tajalli"
+       alt="Amirhossein Tajalli - GitHub Profile Image"
+       width="120" height="120" style="border-radius:50%;">
+
+  <div>
+    <h1>Amirhossein Tajalli</h1>
+    <p>Mechanical Engineer | MSc in Space Structural Engineering | Research Assistant | CAD Designer | Developer</p>
+  </div>
+
+</div>
 
 ## ⚠️ Disclaimer
 
 **[amirhossein-tajalli](https://github.com/amirhossein-tajalli)** is the only official GitHub account for **Amirhossein Tajalli**. Any other GitHub accounts or pages with similar names are not related to me.
-
 
 ## ℹ️ About
 

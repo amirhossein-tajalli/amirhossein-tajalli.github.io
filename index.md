@@ -4,9 +4,10 @@ Mechanical Engineer | MSc in Space Structural Engineering | Research Assistant |
 
 ## ⚠️ Disclaimer
 
-This is the only official GitHub account for **Amirhossein Tajalli**. Any other GitHub accounts or pages with similar names are not related to me.
+**[amirhossein-tajalli](https://github.com/amirhossein-tajalli)** is the only official GitHub account for **Amirhossein Tajalli**. Any other GitHub accounts or pages with similar names are not related to me.
 
-## About
+
+## ℹ️ About
 
 Driven by curiosity and genuine eagerness to learn, I embrace challenges as opportunities to grow and develop new skills. I believe that dedication and an open mindset turn every experience into a chance for continuous improvement. Motivated to contribute meaningfully, I seek out environments that encourage innovation and push me beyond my comfort zone, fostering both professional and personal growth.
 

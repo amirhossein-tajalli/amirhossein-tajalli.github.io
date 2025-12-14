@@ -8,6 +8,8 @@
 
 Mechanical Engineer | MSc in Aerospace Structural Engineering | Research Assistant | CAD Designer | Developer
 
+---
+
 ## ℹ️ About
 
 <div align="justify">

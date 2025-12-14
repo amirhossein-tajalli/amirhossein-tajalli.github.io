@@ -1,13 +1,13 @@
 <div style="display:flex; align-items:center; gap:16px;">
 
-<img src="https://avatars.githubusercontent.com/amirhossein-tajalli"
-alt="Amirhossein Tajalli - GitHub Profile Image"
-width="120" height="120" style="border-radius:50%;">
+  <img src="https://avatars.githubusercontent.com/amirhossein-tajalli"
+       alt="Amirhossein Tajalli - GitHub Profile Image"
+       width="120" height="120" style="border-radius:50%;">
 
-<div>
-<h1>Amirhossein Tajalli</h1>
-<p>Mechanical Engineer | MSc in Space Structural Engineering | Research Assistant | CAD Designer | Developer</p>
-</div>
+  <div>
+    <h1>Amirhossein Tajalli</h1>
+    <p>Mechanical Engineer | MSc in Space Structural Engineering | Research Assistant | CAD Designer | Developer</p>
+  </div>
 
 </div>
 
@@ -21,4 +21,4 @@ Driven by curiosity and genuine eagerness to learn, I embrace challenges as oppo
 
 ## 🔗 Links
 
-![LinkedIn](https://linkedin.com/in/amirhosseintajalli)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![ORCID](https://orcid.org/0009-0007-5525-2861)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Portfolio](https://amirhossein-tajalli.github.io)
+[LinkedIn](https://linkedin.com/in/amirhosseintajalli)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ORCID](https://orcid.org/0009-0007-5525-2861)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Portfolio](https://amirhossein-tajalli.github.io)

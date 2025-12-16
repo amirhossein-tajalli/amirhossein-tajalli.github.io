@@ -22,7 +22,8 @@
 
 ## ⚠️ Disclaimer
 
-**[amirhossein-tajalli](https://github.com/amirhossein-tajalli)** is the only official GitHub account for **Amirhossein Tajalli**. Any other GitHub accounts or pages with similar names are not related to me.
+**[amirhossein-tajalli](https://github.com/amirhossein-tajalli)** is the only GitHub account authorized to represent **Amirhossein Tajalli**. Any other account or page using similar names, avatars, or content is unaffiliated and may be treated as impersonation under GitHub’s Acceptable Use Policies.
+
 
 ## 🔗 Links
 
